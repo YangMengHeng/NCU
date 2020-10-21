@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	width: 80%;
+	margin:auto;
+}
+
+#layer1{
+	background-color: #ff0000;
+}
+
+#layer2{
+	background-color: #00ff00;
+}
+
+#layer3{
+	background-color: #0000ff;
+}
