@@ -1,0 +1,9 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "lab8_04.C": "cpp",
+        "lab8_04_ans.C": "cpp",
+        "lab8_06.C": "cpp",
+        "lab8_06_ans.C": "cpp"
+    }
+}

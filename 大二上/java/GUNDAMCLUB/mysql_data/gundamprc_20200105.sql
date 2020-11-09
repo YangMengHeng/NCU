@@ -1,0 +1,7 @@
+INSERT INTO `gundamprc`(`ProductArea`, `Brand`, `Series`, `Gundam`, `Identifier`, `Proportion`, `GNumber`, `ProductCapacity`, `Price`, `Camp`) VALUES ('Japan', 'BANDAI', 'PG', '00 Raiser', 'GN-000', '1/60', 1, 888, 1999, 1);
+INSERT INTO `gundamprc`(`ProductArea`, `Brand`, `Series`, `Gundam`, `Identifier`, `Proportion`, `GNumber`, `ProductCapacity`, `Price`, `Camp`) VALUES ('Japan', 'BANDAI', 'PG', 'Phoenix', 'RX-0-03', '1/60', 2, 0, 3668, 0);
+INSERT INTO `gundamprc`(`ProductArea`, `Brand`, `Series`, `Gundam`, `Identifier`, `Proportion`, `GNumber`, `ProductCapacity`, `Price`, `Camp`) VALUES ('Japan', 'BANDAI', 'HG', 'Crossbone', 'X-1 FullCloth', '1/144', 3, 101, 459, 1);
+INSERT INTO `gundamprc`(`ProductArea`, `Brand`, `Series`, `Gundam`, `Identifier`, `Proportion`, `GNumber`, `ProductCapacity`, `Price`, `Camp`) VALUES ('中国', '漫模社', 'MG', '赤炎自由敢达', 'ZGMF-X10A-Fire', '1/100', 4, 3, 658, 1);
+INSERT INTO `gundamprc`(`ProductArea`, `Brand`, `Series`, `Gundam`, `Identifier`, `Proportion`, `GNumber`, `ProductCapacity`, `Price`, `Camp`) VALUES ('中国', '无名逆流', 'MG', '征服骑士', 'ZGMF-X10A-Knight', '1/100', 5, 5, 780, 1);
+INSERT INTO `gundamprc`(`ProductArea`, `Brand`, `Series`, `Gundam`, `Identifier`, `Proportion`, `GNumber`, `ProductCapacity`, `Price`, `Camp`) VALUES ('中国', '龙桃子', 'MG', '海涅命运敢达', 'ZGMF-X42S-Henie', '1/100', 6, 1, 3199, 0);
+INSERT INTO `gundamprc`(`ProductArea`, `Brand`, `Series`, `Gundam`, `Identifier`, `Proportion`, `GNumber`, `ProductCapacity`, `Price`, `Camp`) VALUES ('Japan', 'BANDAI', 'MG', 'Freedom', 'ZGMF-X10A', '1/100', 7, 999, 305, 1);
