@@ -1,0 +1,2 @@
+INSERT INTO `master`(`userAccount`, `userPwd`, `userName`, `userIcon`, `userMoney`, `userTrades`, `sellerSign`) VALUES ('15398615549', '123456', '神祁未来', './images/uploadFile/GundamClub20200614234941640.png', 4427.00, 'ZGMF-X42S-F海涅命运敢达&#10ZGMF-X10A-K征服骑士敢达&#10ZGMF-X10A-K征服骑士敢达&#10ZGMF-X10A-K征服骑士敢达&#10', 0);
+INSERT INTO `master`(`userAccount`, `userPwd`, `userName`, `userIcon`, `userMoney`, `userTrades`, `sellerSign`) VALUES ('19979405286', '123456', '旗木白哉', './images/uploadFile/GundamClub20200614114050514.png', 1.10, 'ZGMF-X19A无限正义敢达&#10', 0);

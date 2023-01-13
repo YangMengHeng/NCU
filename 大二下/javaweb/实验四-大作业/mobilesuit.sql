@@ -1,0 +1,5 @@
+INSERT INTO `mobilesuit`(`gundamIdentifier`, `gundamName`, `gundamSeries`, `gundamNum`, `gundamPrice`, `gundamProductArea`, `gundamSeller`) VALUES ('GN-006', '智天使', 'MG', 99, 279.00, 'Japan', 'BANDAI');
+INSERT INTO `mobilesuit`(`gundamIdentifier`, `gundamName`, `gundamSeries`, `gundamNum`, `gundamPrice`, `gundamProductArea`, `gundamSeller`) VALUES ('ZGMF-X10A-F', '炎殇自由', 'MB', 2, 569.00, 'China', '无名逆流');
+INSERT INTO `mobilesuit`(`gundamIdentifier`, `gundamName`, `gundamSeries`, `gundamNum`, `gundamPrice`, `gundamProductArea`, `gundamSeller`) VALUES ('ZGMF-X10A-K', '征服骑士', 'MB', 1, 480.00, 'China', '无名逆流');
+INSERT INTO `mobilesuit`(`gundamIdentifier`, `gundamName`, `gundamSeries`, `gundamNum`, `gundamPrice`, `gundamProductArea`, `gundamSeller`) VALUES ('ZGMF-X19A', '无限正义', 'MG', 199, 299.00, 'Japan', 'BANDAI');
+INSERT INTO `mobilesuit`(`gundamIdentifier`, `gundamName`, `gundamSeries`, `gundamNum`, `gundamPrice`, `gundamProductArea`, `gundamSeller`) VALUES ('ZGMF-X42S-F', '海涅命运', 'MB', 1, 2099.00, 'Japan', 'BANDAI');
