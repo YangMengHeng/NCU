@@ -1,0 +1,3 @@
+INSERT INTO `admin`(`Number`, `AdminName`, `Account`, `Password`, `Address`, `Contact`, `OpenTime`, `Capital`, `Goods`) VALUES (1, '旗木白哉', '5549', '0', '江西省南昌市南京东路235号', '19979405286', '2019-12-19 ', 0, '');
+INSERT INTO `admin`(`Number`, `AdminName`, `Account`, `Password`, `Address`, `Contact`, `OpenTime`, `Capital`, `Goods`) VALUES (2, 'BANDAI', 'bd', '1223209', '银河系地球城日本市', '4000823823', '2019-12-31', 3668, '\rPhoenix\n\r');
+INSERT INTO `admin`(`Number`, `AdminName`, `Account`, `Password`, `Address`, `Contact`, `OpenTime`, `Capital`, `Goods`) VALUES (3, '漫模社', 'mms', '123456', '江西省南昌市南昌大学青山湖校区', '20082009', '2020-01-04', 0, '');
