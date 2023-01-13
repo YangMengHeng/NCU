@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>ico/food1.ico</file>
+        <file>ico/food2.ico</file>
+        <file>ico/GameWdiget.jpg</file>
+        <file>ico/mainmenu.jpg</file>
+        <file>ico/Mainwindowtitle.jpg</file>
+        <file>ico/OpenButton.ico</file>
+        <file>ico/Operation.jpg</file>
+        <file>ico/SnakeBody.ico</file>
+        <file>ico/SnakeHead.ico</file>
+    </qresource>
+</RCC>
